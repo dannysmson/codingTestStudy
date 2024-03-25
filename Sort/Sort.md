@@ -113,3 +113,8 @@ ___
   - 루트 노드와 마지막 리프노드를 swap, 다시 최대힙 생성
 
 c++ 구현 코드링크 - [https://github.com/dannysmson/codingTestStudy/blob/main/Sort/heapSort.cpp]
+
+___
+## 정렬 알고리즘 문제예시
+* 위에서 아래로 [https://github.com/dannysmson/codingTestStudy/blob/main/Sort/A.cpp]
+* 성적이 낮은 순서로 학생 출력하기 [https://github.com/dannysmson/codingTestStudy/blob/main/Sort/B.cpp]
