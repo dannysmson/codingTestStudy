@@ -29,3 +29,8 @@
 4. 탐색 범위를 반으로 줄이고, 탐색 범위가 더 이상 없거나 target을 찾을 때까지 반복
 
 ![alt text](image.png)
+
+___
+## 이진 탐색 알고리즘 문제 예시
+* 부품 찾기 [https://github.com/dannysmson/codingTestStudy/blob/main/BinarySearch/A.cpp]
+* 떡볶이 떡 만들기 [https://github.com/dannysmson/codingTestStudy/blob/main/BinarySearch/B.cpp]
