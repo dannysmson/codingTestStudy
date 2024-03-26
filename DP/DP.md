@@ -58,3 +58,11 @@ ___
 ✔️ 분할 정복 방법과의 차이점?
 
 큰 문제를 작은 문제로 나누어 해결하는 방식에서는 동일하지만, **DP는 `작은 부분문제들이 반복`되어야 함!!**
+
+___
+
+## DP 문제예시
+* 1로 만들기 [https://github.com/dannysmson/codingTestStudy/blob/main/DP/1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp]
+* 개미 전사 [https://github.com/dannysmson/codingTestStudy/blob/main/DP/%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%AC.cpp]
+* 바닥 공사 [https://github.com/dannysmson/codingTestStudy/blob/main/DP/%EB%B0%94%EB%8B%A5%EA%B3%B5%EC%82%AC.cpp]
+* 효율적인 화폐 구성 [https://github.com/dannysmson/codingTestStudy/blob/main/DP/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1.cpp]
