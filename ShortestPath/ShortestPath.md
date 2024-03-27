@@ -80,3 +80,9 @@ ___
 **C++ 코드**
 
 ![image](https://github.com/dannysmson/codingTestStudy/assets/79390749/145194eb-fc2b-48c2-a777-ef6b7a72ce6f)
+
+___
+
+## 최단경로 알고리즘 문제 예시
+* 미래 도시 [https://github.com/dannysmson/codingTestStudy/blob/main/ShortestPath/%EB%AF%B8%EB%9E%98%EB%8F%84%EC%8B%9C.cpp]
+* 전보 [https://github.com/dannysmson/codingTestStudy/blob/main/ShortestPath/%EC%A0%84%EB%B3%B4.cpp]
