@@ -33,4 +33,8 @@ ________________________________________________________________________________
 * 큰 수의 법칙 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/A.cpp>
 * 숫자 카드 게임 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/B.cpp>
 * 1이 될 때까지 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/C.cpp>
-  
+* 모험가 길드 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/Q1.cpp>
+* 곱하기 혹은 더하기 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/Q2.cpp>
+* 문자열 뒤집기 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/Q3.CPP>
+* 만들 수 없는 금액 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/Q4.cpp>
+* 볼링공 고르기 <https://github.com/dannysmson/codingTestStudy/blob/main/Greedy/Q5.cpp>
