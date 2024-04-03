@@ -28,3 +28,7 @@ ___________________________________________________________________________
 ## 완전 탐색 알고리즘 문제 예시
 * 왕실의 나이트 <https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/A.cpp>
 * 게임 개발 <https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/B.cpp>
+* 럭키 스트레이트 [https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/Q7.cpp]
+* 문자열 재정렬 [https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/Q8.cpp]
+* 문자열 압축 [https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/Q9.cpp]
+* 자물쇠와 열쇠 [https://github.com/dannysmson/codingTestStudy/blob/main/BruteForce/Q10.cpp]
