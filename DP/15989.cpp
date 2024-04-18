@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// (1,2,3 더하기 4 - Alg.)
+// (1,2,3 더하기 4 - DP Alg.)
 // https://www.acmicpc.net/problem/15989
 long long dp[10001][4];
 int t, n;
