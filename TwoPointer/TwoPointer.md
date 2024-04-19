@@ -6,7 +6,8 @@
 
 - 리스트에 순차적으로 접근해야 할 때 두 개의 점의 위치를 기록하면서 처리
 - 시간 복잡도: `O(N)`
-  ![alt text](image.png)
+  
+![alt text](image.png)
 
 ---
 
