@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 링크와 스타트 (골드 5 - Alg.)
+// 링크와 스타트 (골드 5 - Brute Force Alg.)
 // https://www.acmicpc.net/problem/15661
 int n, arr[21][21], ret = 987654321;
 vector<int> teamL;
